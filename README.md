@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas Santos 👋
 
-- 🔭 Atualmente ainda não trabalo com programaçao.
+- 🔭 Atualmente ainda não trabalho com programaçao.
 - 🌱 Estudando desenvolvimento web
 
 <div align="center">
